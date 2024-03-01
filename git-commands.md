@@ -1,6 +1,6 @@
-- git innit: Initialize an empty Git repozitory
+- git init: Initialise an empty Git repository
 
-- git clone [repozitory URL]: Clone a repozitory into a new directory
+- git clone [repozitory URL]: Clone a repository into a new directory
 
 - git add [file]: Add file/s to the staging area
 
